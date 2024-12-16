@@ -5,32 +5,32 @@
             "medicines": [
                 {
                     "name": "Paracetamol",
-                    "image": "/image/paracetamol.jpg",
+                    "image": "image/paracetamol.jpg",
                     "price": 5.99
                 },
                 {
                     "name": "Ibuprofen",
-                    "image": "/image/ibuprofen.jpg",
+                    "image": "image/ibuprofen.jpg",
                     "price": 6.50
                 },
                 {
                     "name": "Aspirin",
-                    "image": "/image/aspirin.webp",
+                    "image": "image/aspirin.webp",
                     "price": 4.75
                 },
                 {
                     "name": "Naproxen",
-                    "image": "/image/naproxen.png",
+                    "image": "image/naproxen.png",
                     "price": 7.25
                 },
                 {
                     "name": "Diclofenac",
-                    "image": "/image/diclofenac.jpg",
+                    "image": "image/diclofenac.jpg",
                     "price": 6.99
                 },
                 {
                     "name": "Tramadol",
-                    "image": "/image/tramadol.webp",
+                    "image": "image/tramadol.webp",
                     "price": 8.50
                 }
             ]
@@ -40,32 +40,32 @@
             "medicines": [
               {
                 "name": "Amoxicillin",
-                "image": "/image/amoxicillin.jpg",
+                "image": "image/amoxicillin.jpg",
                 "price": 9.99
               },
               {
                 "name": "Ciprofloxacin",
-                "image": "/image/ciprofloxacin.jpg",
+                "image": "image/ciprofloxacin.jpg",
                 "price": 11.50
               },
               {
                 "name": "Doxycycline",
-                "image": "/image/doxycycline.png",
+                "image": "image/doxycycline.png",
                 "price": 7.75
               },
               {
                 "name": "Azithromycin",
-                "image": "/image/azithromycin.jpg",
+                "image": "image/azithromycin.jpg",
                 "price": 10.25
               },
               {
                 "name": "Metronidazole",
-                "image": "/image/metronidazole.png",
+                "image": "image/metronidazole.png",
                 "price": 6.99
               },
               {
                 "name": "Cephalexin",
-                "image": "/image/cephalexin.jpg",
+                "image": "image/cephalexin.jpg",
                 "price": 8.50
               }
             ]
@@ -75,32 +75,32 @@
             "medicines": [
               {
                 "name": "Fluoxetine",
-                "image": "/image/fluoxetine.webp",
+                "image": "image/fluoxetine.webp",
                 "price": 12.99
               },
               {
                 "name": "Sertraline",
-                "image": "/image/sertraline.jpg",
+                "image": "image/sertraline.jpg",
                 "price": 14.50
               },
               {
                 "name": "Escitalopram",
-                "image": "/image/escitalopram.jpg",
+                "image": "image/escitalopram.jpg",
                 "price": 15.75
               },
               {
                 "name": "Venlafaxine",
-                "image": "/image/venlafaxine.jpg",
+                "image": "image/venlafaxine.jpg",
                 "price": 13.25
               },
               {
                 "name": "Bupropion",
-                "image": "/image/bupropion.png",
+                "image": "image/bupropion.png",
                 "price": 11.99
               },
               {
                 "name": "Duloxetine",
-                "image": "/image/duloxetine.png",
+                "image": "image/duloxetine.png",
                 "price": 16.50
               }
             ]
@@ -110,32 +110,32 @@
             "medicines": [
               {
                 "name": "Cetirizine",
-                "image": "/image/cetirizine.jpg",
+                "image": "image/cetirizine.jpg",
                 "price": 5.99
               },
               {
                 "name": "Loratadine",
-                "image": "/image/loratadine.webp",
+                "image": "image/loratadine.webp",
                 "price": 6.50
               },
               {
                 "name": "Fexofenadine",
-                "image": "/image/fexofenadine.jpg",
+                "image": "image/fexofenadine.jpg",
                 "price": 7.75
               },
               {
                 "name": "Diphenhydramine",
-                "image": "/image/diphenhydramine.webp",
+                "image": "image/diphenhydramine.webp",
                 "price": 4.25
               },
               {
                 "name": "Desloratadine",
-                "image": "/image/desloratadine.webp",
+                "image": "image/desloratadine.webp",
                 "price": 8.99
               },
               {
                 "name": "Levocetirizine",
-                "image": "/image/levocetirizine.jpg",
+                "image": "image/levocetirizine.jpg",
                 "price": 9.50
               }
             ]
@@ -145,32 +145,32 @@
             "medicines": [
               {
                 "name": "Lisinopril",
-                "image": "/image/lisinopril.jpg",
+                "image": "image/lisinopril.jpg",
                 "price": 7.99
               },
               {
                 "name": "Amlodipine",
-                "image": "/image/amlodipine.jpg",
+                "image": "image/amlodipine.jpg",
                 "price": 8.50
               },
               {
                 "name": "Metoprolol",
-                "image": "/image/metoprolol.webp",
+                "image": "image/metoprolol.webp",
                 "price": 6.75
               },
               {
                 "name": "Losartan",
-                "image": "/image/losartan.jpg",
+                "image": "image/losartan.jpg",
                 "price": 9.25
               },
               {
                 "name": "Hydrochlorothiazide",
-                "image": "/image/hydrochlorothiazide.jpg",
+                "image": "image/hydrochlorothiazide.jpg",
                 "price": 5.99
               },
               {
                 "name": "Valsartan",
-                "image": "/image/valsartan.jpg",
+                "image": "image/valsartan.jpg",
                 "price": 10.50
               }
             ]
