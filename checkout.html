@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout - Kodagoda Medical Center</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <header class="header">
+        <section class="flex">
+            <a href="#" class="logo"> <i class="fas fa-heartbeat"></i> Kodagoda Medical Center </a>
+            <nav class="navbar">
+                <a href="index.html">Home</a>
+                <a href="pharmacy.html">Back to Pharmacy</a>
+            </nav>
+        </section>
+    </header>
+    <div class="checkout-container">
+        <h1 class="heading">Checkout <span>Details</span></h1>
+        
+        <div class="checkout-content">
+            <div class="order-summary">
+                <h2>Order Summary</h2>
+                <div id="checkout-items"></div>
+                <div class="total">
+                    <h3>Total: $<span id="checkout-total">0</span></h3>
+                </div>
+                <div class="favorite-actions">
+                    <button id="save-favorite" class="btn">Save as Favorite <span>★</span></button>
+                    <button id="apply-favorite" class="btn">Apply Favorite <span>↓</span></button>
+                </div>
+            </div>
+            <form id="checkout-form" class="checkout-form">
+                <div class="form-section">
+                    <h3>Personal Information</h3>
+                    <input type="text" id="fullName" placeholder="Full Name" required>
+                    <input type="email" id="email" placeholder="Email" required>
+                    <input type="tel" id="phone" placeholder="Phone Number" required>
+                </div>
+                <div class="form-section">
+                    <h3>Delivery Address</h3>
+                    <input type="text" id="street" placeholder="Street Address" required>
+                    <input type="text" id="city" placeholder="City" required>
+                    <input type="text" id="postal" placeholder="Postal Code" required>
+                </div>
+                <div class="form-section">
+                    <h3>Payment Information</h3>
+                    <input type="text" id="cardNumber" placeholder="Card Number" required>
+                    <div class="card-details">
+                        <input type="text" id="expiry" placeholder="MM/YY" required>
+                        <input type="text" id="cvv" placeholder="CVV" required>
+                    </div>
+                </div>
+                <button type="submit" class="btn">Complete Order <span>→</span></button>
+            </form>
+        </div>
+    </div>
+    <script src="../js/checkout.js"></script>
+</body>
+</html>
